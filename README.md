@@ -8,7 +8,7 @@ Uma biblioteca virtual simples para gerenciar uma coleção de livros, permitind
 - Remover livros da coleção
 
 ## NÃO É UM SISTEMA 
-é alg simples utilizado como exercício para aprender utilizar o github
+é algo simples utilizado como exercício para aprender utilizar o github
 
 
 
