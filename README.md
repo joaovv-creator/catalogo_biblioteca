@@ -1,17 +1,14 @@
 # Biblioteca de Livros 📚
 
-Um sistema simples para gerenciar uma coleção de livros, permitindo adicionar, buscar, listar e remover livros de uma biblioteca virtual.
+Uma biblioteca virtual simples para gerenciar uma coleção de livros, permitindo adicionar e remover livros dela.
 
 ## Funcionalidades
 
-- Adicionar novos livros à biblioteca  
-- Listar todos os livros disponíveis  
-- Buscar livros por título, autor ou categoria  
-- Remover livros da coleção  
+- Adicionar novos livros à biblioteca   
+- Remover livros da coleção
 
+## NÃO É UM SISTEMA 
+é alg simples utilizado como exercício para aprender utilizar o github
 
-## Tecnologias Utilizadas
-
-- Java Script
 
 
